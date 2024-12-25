@@ -1,0 +1,1897 @@
+{
+    "zero_error": 0,
+    "level": [
+        {
+            "names": [
+                "Berlin"
+            ],
+            "border": [
+                [
+                    52.52,
+                    13.405
+                ]
+            ],
+            "german_names": [
+                "Berlin"
+            ]
+        },
+        {
+            "names": [
+                "Stuttgart"
+            ],
+            "border": [
+                [
+                    48.7775,
+                    9.18
+                ]
+            ],
+            "german_names": [
+                "Stuttgart"
+            ]
+        },
+        {
+            "names": [
+                "Munich",
+                "M\u00fcnchen",
+                "Muenchen"
+            ],
+            "border": [
+                [
+                    48.1375,
+                    11.575
+                ]
+            ],
+            "german_names": [
+                "M\u00fcnchen",
+                "Muenchen",
+                "Munich"
+            ]
+        },
+        {
+            "names": [
+                "Hamburg"
+            ],
+            "border": [
+                [
+                    53.55,
+                    10.0
+                ]
+            ],
+            "german_names": [
+                "Hamburg"
+            ]
+        },
+        {
+            "names": [
+                "Cologne",
+                "K\u00f6ln",
+                "Koeln"
+            ],
+            "border": [
+                [
+                    50.9364,
+                    6.9528
+                ]
+            ],
+            "german_names": [
+                "K\u00f6ln",
+                "Koeln",
+                "Cologne"
+            ]
+        },
+        {
+            "names": [
+                "Frankfurt"
+            ],
+            "border": [
+                [
+                    50.1106,
+                    8.6822
+                ]
+            ],
+            "german_names": [
+                "Frankfurt"
+            ]
+        },
+        {
+            "names": [
+                "D\u00fcsseldorf",
+                "Duesseldorf"
+            ],
+            "border": [
+                [
+                    51.2333,
+                    6.7833
+                ]
+            ],
+            "german_names": [
+                "D\u00fcsseldorf",
+                "Duesseldorf"
+            ]
+        },
+        {
+            "names": [
+                "Leipzig"
+            ],
+            "border": [
+                [
+                    51.34,
+                    12.375
+                ]
+            ],
+            "german_names": [
+                "Leipzig"
+            ]
+        },
+        {
+            "names": [
+                "Dortmund"
+            ],
+            "border": [
+                [
+                    51.5139,
+                    7.4653
+                ]
+            ],
+            "german_names": [
+                "Dortmund"
+            ]
+        },
+        {
+            "names": [
+                "Essen"
+            ],
+            "border": [
+                [
+                    51.4508,
+                    7.0131
+                ]
+            ],
+            "german_names": [
+                "Essen"
+            ]
+        },
+        {
+            "names": [
+                "Bremen"
+            ],
+            "border": [
+                [
+                    53.0758,
+                    8.8072
+                ]
+            ],
+            "german_names": [
+                "Bremen"
+            ]
+        },
+        {
+            "names": [
+                "Dresden"
+            ],
+            "border": [
+                [
+                    51.05,
+                    13.74
+                ]
+            ],
+            "german_names": [
+                "Dresden"
+            ]
+        },
+        {
+            "names": [
+                "Hannover"
+            ],
+            "border": [
+                [
+                    52.3667,
+                    9.7167
+                ]
+            ],
+            "german_names": [
+                "Hannover"
+            ]
+        },
+        {
+            "names": [
+                "Nuremberg"
+            ],
+            "border": [
+                [
+                    49.4539,
+                    11.0775
+                ]
+            ],
+            "german_names": [
+                "Nuremberg"
+            ]
+        },
+        {
+            "names": [
+                "Duisburg"
+            ],
+            "border": [
+                [
+                    51.4347,
+                    6.7625
+                ]
+            ],
+            "german_names": [
+                "Duisburg"
+            ]
+        },
+        {
+            "names": [
+                "Bochum"
+            ],
+            "border": [
+                [
+                    51.4819,
+                    7.2158
+                ]
+            ],
+            "german_names": [
+                "Bochum"
+            ]
+        },
+        {
+            "names": [
+                "Wuppertal"
+            ],
+            "border": [
+                [
+                    51.2667,
+                    7.1833
+                ]
+            ],
+            "german_names": [
+                "Wuppertal"
+            ]
+        },
+        {
+            "names": [
+                "Bielefeld"
+            ],
+            "border": [
+                [
+                    52.0211,
+                    8.5347
+                ]
+            ],
+            "german_names": [
+                "Bielefeld"
+            ]
+        },
+        {
+            "names": [
+                "Bonn"
+            ],
+            "border": [
+                [
+                    50.7333,
+                    7.1
+                ]
+            ],
+            "german_names": [
+                "Bonn"
+            ]
+        },
+        {
+            "names": [
+                "M\u00fcnster",
+                "Muenster"
+            ],
+            "border": [
+                [
+                    51.9625,
+                    7.6256
+                ]
+            ],
+            "german_names": [
+                "M\u00fcnster",
+                "Muenster"
+            ]
+        },
+        {
+            "names": [
+                "Mannheim"
+            ],
+            "border": [
+                [
+                    49.4878,
+                    8.4661
+                ]
+            ],
+            "german_names": [
+                "Mannheim"
+            ]
+        },
+        {
+            "names": [
+                "Karlsruhe"
+            ],
+            "border": [
+                [
+                    49.0092,
+                    8.404
+                ]
+            ],
+            "german_names": [
+                "Karlsruhe"
+            ]
+        },
+        {
+            "names": [
+                "Augsburg"
+            ],
+            "border": [
+                [
+                    48.3689,
+                    10.8978
+                ]
+            ],
+            "german_names": [
+                "Augsburg"
+            ]
+        },
+        {
+            "names": [
+                "Wiesbaden"
+            ],
+            "border": [
+                [
+                    50.0825,
+                    8.24
+                ]
+            ],
+            "german_names": [
+                "Wiesbaden"
+            ]
+        },
+        {
+            "names": [
+                "M\u00f6nchengladbach",
+                "Muenchengladbach"
+            ],
+            "border": [
+                [
+                    51.2,
+                    6.4333
+                ]
+            ],
+            "german_names": [
+                "M\u00f6nchengladbach",
+                "Muenchengladbach"
+            ]
+        },
+        {
+            "names": [
+                "Gelsenkirchen"
+            ],
+            "border": [
+                [
+                    51.5167,
+                    7.1
+                ]
+            ],
+            "german_names": [
+                "Gelsenkirchen"
+            ]
+        },
+        {
+            "names": [
+                "Aachen"
+            ],
+            "border": [
+                [
+                    50.7756,
+                    6.0836
+                ]
+            ],
+            "german_names": [
+                "Aachen"
+            ]
+        },
+        {
+            "names": [
+                "Braunschweig"
+            ],
+            "border": [
+                [
+                    52.2667,
+                    10.5167
+                ]
+            ],
+            "german_names": [
+                "Braunschweig"
+            ]
+        },
+        {
+            "names": [
+                "Chemnitz"
+            ],
+            "border": [
+                [
+                    50.8333,
+                    12.9167
+                ]
+            ],
+            "german_names": [
+                "Chemnitz"
+            ]
+        },
+        {
+            "names": [
+                "Kiel"
+            ],
+            "border": [
+                [
+                    54.3233,
+                    10.1394
+                ]
+            ],
+            "german_names": [
+                "Kiel"
+            ]
+        },
+        {
+            "names": [
+                "Halle"
+            ],
+            "border": [
+                [
+                    51.4828,
+                    11.9697
+                ]
+            ],
+            "german_names": [
+                "Halle"
+            ]
+        },
+        {
+            "names": [
+                "Magdeburg"
+            ],
+            "border": [
+                [
+                    52.1317,
+                    11.6392
+                ]
+            ],
+            "german_names": [
+                "Magdeburg"
+            ]
+        },
+        {
+            "names": [
+                "Freiburg im Breisgau"
+            ],
+            "border": [
+                [
+                    47.995,
+                    7.85
+                ]
+            ],
+            "german_names": [
+                "Freiburg im Breisgau"
+            ]
+        },
+        {
+            "names": [
+                "Krefeld"
+            ],
+            "border": [
+                [
+                    51.3333,
+                    6.5667
+                ]
+            ],
+            "german_names": [
+                "Krefeld"
+            ]
+        },
+        {
+            "names": [
+                "Mainz"
+            ],
+            "border": [
+                [
+                    49.9994,
+                    8.2736
+                ]
+            ],
+            "german_names": [
+                "Mainz"
+            ]
+        },
+        {
+            "names": [
+                "L\u00fcbeck",
+                "Luebeck"
+            ],
+            "border": [
+                [
+                    53.8697,
+                    10.6864
+                ]
+            ],
+            "german_names": [
+                "L\u00fcbeck",
+                "Luebeck"
+            ]
+        },
+        {
+            "names": [
+                "Oberhausen"
+            ],
+            "border": [
+                [
+                    51.4967,
+                    6.8706
+                ]
+            ],
+            "german_names": [
+                "Oberhausen"
+            ]
+        },
+        {
+            "names": [
+                "Rostock"
+            ],
+            "border": [
+                [
+                    54.0833,
+                    12.1333
+                ]
+            ],
+            "german_names": [
+                "Rostock"
+            ]
+        },
+        {
+            "names": [
+                "Kassel"
+            ],
+            "border": [
+                [
+                    51.3158,
+                    9.4979
+                ]
+            ],
+            "german_names": [
+                "Kassel"
+            ]
+        },
+        {
+            "names": [
+                "Hagen"
+            ],
+            "border": [
+                [
+                    51.3667,
+                    7.4833
+                ]
+            ],
+            "german_names": [
+                "Hagen"
+            ]
+        },
+        {
+            "names": [
+                "Potsdam"
+            ],
+            "border": [
+                [
+                    52.4,
+                    13.0667
+                ]
+            ],
+            "german_names": [
+                "Potsdam"
+            ]
+        },
+        {
+            "names": [
+                "Saarbr\u00fccken",
+                "Saarbruecken"
+            ],
+            "border": [
+                [
+                    49.2333,
+                    7.0
+                ]
+            ],
+            "german_names": [
+                "Saarbr\u00fccken",
+                "Saarbruecken"
+            ]
+        },
+        {
+            "names": [
+                "Hamm"
+            ],
+            "border": [
+                [
+                    51.6667,
+                    7.8167
+                ]
+            ],
+            "german_names": [
+                "Hamm"
+            ]
+        },
+        {
+            "names": [
+                "Ludwigshafen"
+            ],
+            "border": [
+                [
+                    49.4811,
+                    8.4353
+                ]
+            ],
+            "german_names": [
+                "Ludwigshafen"
+            ]
+        },
+        {
+            "names": [
+                "Oldenburg"
+            ],
+            "border": [
+                [
+                    53.1439,
+                    8.2139
+                ]
+            ],
+            "german_names": [
+                "Oldenburg"
+            ]
+        },
+        {
+            "names": [
+                "M\u00fclheim",
+                "Muelheim"
+            ],
+            "border": [
+                [
+                    51.4275,
+                    6.8825
+                ]
+            ],
+            "german_names": [
+                "M\u00fclheim",
+                "Muelheim"
+            ]
+        },
+        {
+            "names": [
+                "Osnabr\u00fcck",
+                "Osnabrueck"
+            ],
+            "border": [
+                [
+                    52.2833,
+                    8.05
+                ]
+            ],
+            "german_names": [
+                "Osnabr\u00fcck",
+                "Osnabrueck"
+            ]
+        },
+        {
+            "names": [
+                "Leverkusen"
+            ],
+            "border": [
+                [
+                    51.0333,
+                    6.9833
+                ]
+            ],
+            "german_names": [
+                "Leverkusen"
+            ]
+        },
+        {
+            "names": [
+                "Heidelberg"
+            ],
+            "border": [
+                [
+                    49.4167,
+                    8.7167
+                ]
+            ],
+            "german_names": [
+                "Heidelberg"
+            ]
+        },
+        {
+            "names": [
+                "Darmstadt"
+            ],
+            "border": [
+                [
+                    49.8722,
+                    8.6528
+                ]
+            ],
+            "german_names": [
+                "Darmstadt"
+            ]
+        },
+        {
+            "names": [
+                "Solingen"
+            ],
+            "border": [
+                [
+                    51.1667,
+                    7.0833
+                ]
+            ],
+            "german_names": [
+                "Solingen"
+            ]
+        },
+        {
+            "names": [
+                "Regensburg"
+            ],
+            "border": [
+                [
+                    49.0167,
+                    12.0833
+                ]
+            ],
+            "german_names": [
+                "Regensburg"
+            ]
+        },
+        {
+            "names": [
+                "Herne"
+            ],
+            "border": [
+                [
+                    51.55,
+                    7.2167
+                ]
+            ],
+            "german_names": [
+                "Herne"
+            ]
+        },
+        {
+            "names": [
+                "Paderborn"
+            ],
+            "border": [
+                [
+                    51.7181,
+                    8.7542
+                ]
+            ],
+            "german_names": [
+                "Paderborn"
+            ]
+        },
+        {
+            "names": [
+                "Neuss"
+            ],
+            "border": [
+                [
+                    51.2,
+                    6.7
+                ]
+            ],
+            "german_names": [
+                "Neuss"
+            ]
+        },
+        {
+            "names": [
+                "Ingolstadt"
+            ],
+            "border": [
+                [
+                    48.7631,
+                    11.425
+                ]
+            ],
+            "german_names": [
+                "Ingolstadt"
+            ]
+        },
+        {
+            "names": [
+                "F\u00fcrth",
+                "Fuerth"
+            ],
+            "border": [
+                [
+                    49.4667,
+                    11.0
+                ]
+            ],
+            "german_names": [
+                "F\u00fcrth",
+                "Fuerth"
+            ]
+        },
+        {
+            "names": [
+                "Ulm"
+            ],
+            "border": [
+                [
+                    48.4,
+                    9.9833
+                ]
+            ],
+            "german_names": [
+                "Ulm"
+            ]
+        },
+        {
+            "names": [
+                "Heilbronn"
+            ],
+            "border": [
+                [
+                    49.15,
+                    9.2167
+                ]
+            ],
+            "german_names": [
+                "Heilbronn"
+            ]
+        },
+        {
+            "names": [
+                "Pforzheim"
+            ],
+            "border": [
+                [
+                    48.895,
+                    8.705
+                ]
+            ],
+            "german_names": [
+                "Pforzheim"
+            ]
+        },
+        {
+            "names": [
+                "W\u00fcrzburg",
+                "Wuerzburg"
+            ],
+            "border": [
+                [
+                    49.7833,
+                    9.9333
+                ]
+            ],
+            "german_names": [
+                "W\u00fcrzburg",
+                "Wuerzburg"
+            ]
+        },
+        {
+            "names": [
+                "Wolfsburg"
+            ],
+            "border": [
+                [
+                    52.4231,
+                    10.7872
+                ]
+            ],
+            "german_names": [
+                "Wolfsburg"
+            ]
+        },
+        {
+            "names": [
+                "G\u00f6ttingen",
+                "Goettingen"
+            ],
+            "border": [
+                [
+                    51.5339,
+                    9.9356
+                ]
+            ],
+            "german_names": [
+                "G\u00f6ttingen",
+                "Goettingen"
+            ]
+        },
+        {
+            "names": [
+                "Bottrop"
+            ],
+            "border": [
+                [
+                    51.5247,
+                    6.9228
+                ]
+            ],
+            "german_names": [
+                "Bottrop"
+            ]
+        },
+        {
+            "names": [
+                "Reutlingen"
+            ],
+            "border": [
+                [
+                    48.4833,
+                    9.2167
+                ]
+            ],
+            "german_names": [
+                "Reutlingen"
+            ]
+        },
+        {
+            "names": [
+                "Erlangen"
+            ],
+            "border": [
+                [
+                    49.5833,
+                    11.0167
+                ]
+            ],
+            "german_names": [
+                "Erlangen"
+            ]
+        },
+        {
+            "names": [
+                "Bremerhaven"
+            ],
+            "border": [
+                [
+                    53.55,
+                    8.5833
+                ]
+            ],
+            "german_names": [
+                "Bremerhaven"
+            ]
+        },
+        {
+            "names": [
+                "Koblenz"
+            ],
+            "border": [
+                [
+                    50.3597,
+                    7.5978
+                ]
+            ],
+            "german_names": [
+                "Koblenz"
+            ]
+        },
+        {
+            "names": [
+                "Bergisch Gladbach"
+            ],
+            "border": [
+                [
+                    50.9918,
+                    7.1303
+                ]
+            ],
+            "german_names": [
+                "Bergisch Gladbach"
+            ]
+        },
+        {
+            "names": [
+                "Remscheid"
+            ],
+            "border": [
+                [
+                    51.1833,
+                    7.2
+                ]
+            ],
+            "german_names": [
+                "Remscheid"
+            ]
+        },
+        {
+            "names": [
+                "Trier"
+            ],
+            "border": [
+                [
+                    49.7567,
+                    6.6414
+                ]
+            ],
+            "german_names": [
+                "Trier"
+            ]
+        },
+        {
+            "names": [
+                "Recklinghausen"
+            ],
+            "border": [
+                [
+                    51.585,
+                    7.1619
+                ]
+            ],
+            "german_names": [
+                "Recklinghausen"
+            ]
+        },
+        {
+            "names": [
+                "Jena"
+            ],
+            "border": [
+                [
+                    50.9272,
+                    11.5861
+                ]
+            ],
+            "german_names": [
+                "Jena"
+            ]
+        },
+        {
+            "names": [
+                "Moers"
+            ],
+            "border": [
+                [
+                    51.4592,
+                    6.6197
+                ]
+            ],
+            "german_names": [
+                "Moers"
+            ]
+        },
+        {
+            "names": [
+                "Salzgitter"
+            ],
+            "border": [
+                [
+                    52.15,
+                    10.3333
+                ]
+            ],
+            "german_names": [
+                "Salzgitter"
+            ]
+        },
+        {
+            "names": [
+                "Siegen"
+            ],
+            "border": [
+                [
+                    50.8833,
+                    8.0167
+                ]
+            ],
+            "german_names": [
+                "Siegen"
+            ]
+        },
+        {
+            "names": [
+                "G\u00fctersloh",
+                "Guetersloh"
+            ],
+            "border": [
+                [
+                    51.9,
+                    8.3833
+                ]
+            ],
+            "german_names": [
+                "G\u00fctersloh",
+                "Guetersloh"
+            ]
+        },
+        {
+            "names": [
+                "Hildesheim"
+            ],
+            "border": [
+                [
+                    52.15,
+                    9.95
+                ]
+            ],
+            "german_names": [
+                "Hildesheim"
+            ]
+        },
+        {
+            "names": [
+                "Hanau"
+            ],
+            "border": [
+                [
+                    50.1328,
+                    8.9169
+                ]
+            ],
+            "german_names": [
+                "Hanau"
+            ]
+        },
+        {
+            "names": [
+                "Kaiserslautern"
+            ],
+            "border": [
+                [
+                    49.4447,
+                    7.7689
+                ]
+            ],
+            "german_names": [
+                "Kaiserslautern"
+            ]
+        },
+        {
+            "names": [
+                "Schwerin"
+            ],
+            "border": [
+                [
+                    53.6333,
+                    11.4167
+                ]
+            ],
+            "german_names": [
+                "Schwerin"
+            ]
+        },
+        {
+            "names": [
+                "Esslingen"
+            ],
+            "border": [
+                [
+                    48.7333,
+                    9.3167
+                ]
+            ],
+            "german_names": [
+                "Esslingen"
+            ]
+        },
+        {
+            "names": [
+                "Ludwigsburg"
+            ],
+            "border": [
+                [
+                    48.8975,
+                    9.1922
+                ]
+            ],
+            "german_names": [
+                "Ludwigsburg"
+            ]
+        },
+        {
+            "names": [
+                "Flensburg"
+            ],
+            "border": [
+                [
+                    54.7819,
+                    9.4367
+                ]
+            ],
+            "german_names": [
+                "Flensburg"
+            ]
+        },
+        {
+            "names": [
+                "Gladbeck"
+            ],
+            "border": [
+                [
+                    51.5667,
+                    6.9667
+                ]
+            ],
+            "german_names": [
+                "Gladbeck"
+            ]
+        },
+        {
+            "names": [
+                "Rosenheim"
+            ],
+            "border": [
+                [
+                    47.85,
+                    12.1333
+                ]
+            ],
+            "german_names": [
+                "Rosenheim"
+            ]
+        },
+        {
+            "names": [
+                "Herten"
+            ],
+            "border": [
+                [
+                    51.6,
+                    7.1333
+                ]
+            ],
+            "german_names": [
+                "Herten"
+            ]
+        },
+        {
+            "names": [
+                "Sankt Augustin"
+            ],
+            "border": [
+                [
+                    50.77,
+                    7.1867
+                ]
+            ],
+            "german_names": [
+                "Sankt Augustin"
+            ]
+        },
+        {
+            "names": [
+                "Hilden"
+            ],
+            "border": [
+                [
+                    51.1714,
+                    6.9394
+                ]
+            ],
+            "german_names": [
+                "Hilden"
+            ]
+        },
+        {
+            "names": [
+                "Elmshorn"
+            ],
+            "border": [
+                [
+                    53.7519,
+                    9.6511
+                ]
+            ],
+            "german_names": [
+                "Elmshorn"
+            ]
+        },
+        {
+            "names": [
+                "Halle-Neustadt"
+            ],
+            "border": [
+                [
+                    51.4789,
+                    11.9214
+                ]
+            ],
+            "german_names": [
+                "Halle-Neustadt"
+            ]
+        },
+        {
+            "names": [
+                "Fellbach"
+            ],
+            "border": [
+                [
+                    48.8086,
+                    9.2758
+                ]
+            ],
+            "german_names": [
+                "Fellbach"
+            ]
+        },
+        {
+            "names": [
+                "Pinneberg"
+            ],
+            "border": [
+                [
+                    53.6333,
+                    9.8
+                ]
+            ],
+            "german_names": [
+                "Pinneberg"
+            ]
+        },
+        {
+            "names": [
+                "Siegburg"
+            ],
+            "border": [
+                [
+                    50.8014,
+                    7.2044
+                ]
+            ],
+            "german_names": [
+                "Siegburg"
+            ]
+        },
+        {
+            "names": [
+                "Germering"
+            ],
+            "border": [
+                [
+                    48.1333,
+                    11.3667
+                ]
+            ],
+            "german_names": [
+                "Germering"
+            ]
+        },
+        {
+            "names": [
+                "Ostfildern"
+            ],
+            "border": [
+                [
+                    48.7333,
+                    9.25
+                ]
+            ],
+            "german_names": [
+                "Ostfildern"
+            ]
+        },
+        {
+            "names": [
+                "Kornwestheim"
+            ],
+            "border": [
+                [
+                    48.8598,
+                    9.1852
+                ]
+            ],
+            "german_names": [
+                "Kornwestheim"
+            ]
+        },
+        {
+            "names": [
+                "Unterschlei\u00dfheim"
+            ],
+            "border": [
+                [
+                    48.2833,
+                    11.5667
+                ]
+            ],
+            "german_names": [
+                "Unterschlei\u00dfheim"
+            ]
+        },
+        {
+            "names": [
+                "Hattersheim"
+            ],
+            "border": [
+                [
+                    50.0722,
+                    8.4864
+                ]
+            ],
+            "german_names": [
+                "Hattersheim"
+            ]
+        },
+        {
+            "names": [
+                "Unterhaching"
+            ],
+            "border": [
+                [
+                    48.0658,
+                    11.61
+                ]
+            ],
+            "german_names": [
+                "Unterhaching"
+            ]
+        },
+        {
+            "names": [
+                "Obertshausen"
+            ],
+            "border": [
+                [
+                    50.0667,
+                    8.8333
+                ]
+            ],
+            "german_names": [
+                "Obertshausen"
+            ]
+        },
+        {
+            "names": [
+                "Weingarten"
+            ],
+            "border": [
+                [
+                    47.8092,
+                    9.6444
+                ]
+            ],
+            "german_names": [
+                "Weingarten"
+            ]
+        },
+        {
+            "names": [
+                "Bad Soden am Taunus"
+            ],
+            "border": [
+                [
+                    50.1333,
+                    8.5
+                ]
+            ],
+            "german_names": [
+                "Bad Soden am Taunus"
+            ]
+        },
+        {
+            "names": [
+                "Haar"
+            ],
+            "border": [
+                [
+                    48.1,
+                    11.7333
+                ]
+            ],
+            "german_names": [
+                "Haar"
+            ]
+        },
+        {
+            "names": [
+                "Ottobrunn"
+            ],
+            "border": [
+                [
+                    48.0667,
+                    11.6667
+                ]
+            ],
+            "german_names": [
+                "Ottobrunn"
+            ]
+        },
+        {
+            "names": [
+                "Eschborn"
+            ],
+            "border": [
+                [
+                    50.1436,
+                    8.57
+                ]
+            ],
+            "german_names": [
+                "Eschborn"
+            ]
+        },
+        {
+            "names": [
+                "Puchheim"
+            ],
+            "border": [
+                [
+                    48.15,
+                    11.35
+                ]
+            ],
+            "german_names": [
+                "Puchheim"
+            ]
+        },
+        {
+            "names": [
+                "Bockum"
+            ],
+            "border": [
+                [
+                    51.3333,
+                    6.5667
+                ]
+            ],
+            "german_names": [
+                "Bockum"
+            ]
+        },
+        {
+            "names": [
+                "Gr\u00f6benzell",
+                "Groebenzell"
+            ],
+            "border": [
+                [
+                    48.2,
+                    11.3667
+                ]
+            ],
+            "german_names": [
+                "Gr\u00f6benzell",
+                "Groebenzell"
+            ]
+        },
+        {
+            "names": [
+                "Schenefeld"
+            ],
+            "border": [
+                [
+                    53.6028,
+                    9.8233
+                ]
+            ],
+            "german_names": [
+                "Schenefeld"
+            ]
+        },
+        {
+            "names": [
+                "Wolfratshausen"
+            ],
+            "border": [
+                [
+                    47.9133,
+                    11.4278
+                ]
+            ],
+            "german_names": [
+                "Wolfratshausen"
+            ]
+        },
+        {
+            "names": [
+                "Glinde"
+            ],
+            "border": [
+                [
+                    53.5406,
+                    10.2111
+                ]
+            ],
+            "german_names": [
+                "Glinde"
+            ]
+        },
+        {
+            "names": [
+                "Eilendorf"
+            ],
+            "border": [
+                [
+                    50.7794,
+                    6.1625
+                ]
+            ],
+            "german_names": [
+                "Eilendorf"
+            ]
+        },
+        {
+            "names": [
+                "Eppelheim"
+            ],
+            "border": [
+                [
+                    49.4,
+                    8.6333
+                ]
+            ],
+            "german_names": [
+                "Eppelheim"
+            ]
+        },
+        {
+            "names": [
+                "Neubiberg"
+            ],
+            "border": [
+                [
+                    48.0833,
+                    11.6833
+                ]
+            ],
+            "german_names": [
+                "Neubiberg"
+            ]
+        },
+        {
+            "names": [
+                "Asperg"
+            ],
+            "border": [
+                [
+                    48.9,
+                    9.1333
+                ]
+            ],
+            "german_names": [
+                "Asperg"
+            ]
+        },
+        {
+            "names": [
+                "Wentorf bei Hamburg"
+            ],
+            "border": [
+                [
+                    53.4931,
+                    10.2533
+                ]
+            ],
+            "german_names": [
+                "Wentorf bei Hamburg"
+            ]
+        },
+        {
+            "names": [
+                "Kronshagen"
+            ],
+            "border": [
+                [
+                    54.3333,
+                    10.0833
+                ]
+            ],
+            "german_names": [
+                "Kronshagen"
+            ]
+        },
+        {
+            "names": [
+                "Eichenau"
+            ],
+            "border": [
+                [
+                    48.1667,
+                    11.3167
+                ]
+            ],
+            "german_names": [
+                "Eichenau"
+            ]
+        },
+        {
+            "names": [
+                "Kriftel"
+            ],
+            "border": [
+                [
+                    50.0833,
+                    8.45
+                ]
+            ],
+            "german_names": [
+                "Kriftel"
+            ]
+        },
+        {
+            "names": [
+                "Steinbach am Taunus"
+            ],
+            "border": [
+                [
+                    50.1667,
+                    8.5667
+                ]
+            ],
+            "german_names": [
+                "Steinbach am Taunus"
+            ]
+        },
+        {
+            "names": [
+                "Wei\u00dfenthurm"
+            ],
+            "border": [
+                [
+                    50.4144,
+                    7.4606
+                ]
+            ],
+            "german_names": [
+                "Wei\u00dfenthurm"
+            ]
+        },
+        {
+            "names": [
+                "Neulu\u00dfheim"
+            ],
+            "border": [
+                [
+                    49.2933,
+                    8.5219
+                ]
+            ],
+            "german_names": [
+                "Neulu\u00dfheim"
+            ]
+        },
+        {
+            "names": [
+                "Eichwalde"
+            ],
+            "border": [
+                [
+                    52.3667,
+                    13.6167
+                ]
+            ],
+            "german_names": [
+                "Eichwalde"
+            ]
+        },
+        {
+            "names": [
+                "Altbach"
+            ],
+            "border": [
+                [
+                    48.7239,
+                    9.3797
+                ]
+            ],
+            "german_names": [
+                "Altbach"
+            ]
+        },
+        {
+            "names": [
+                "Merzhausen"
+            ],
+            "border": [
+                [
+                    47.9664,
+                    7.8286
+                ]
+            ],
+            "german_names": [
+                "Merzhausen"
+            ]
+        },
+        {
+            "names": [
+                "Buckenhof"
+            ],
+            "border": [
+                [
+                    49.5939,
+                    11.05
+                ]
+            ],
+            "german_names": [
+                "Buckenhof"
+            ]
+        },
+        {
+            "names": [
+                "Offenbach"
+            ],
+            "border": [
+                [
+                    50.1006,
+                    8.7665
+                ]
+            ],
+            "german_names": [
+                "Offenbach"
+            ]
+        },
+        {
+            "names": [
+                "Erfurt"
+            ],
+            "border": [
+                [
+                    50.9781,
+                    11.0289
+                ]
+            ],
+            "german_names": [
+                "Erfurt"
+            ]
+        }
+    ],
+    "fair": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        31,
+        32,
+        33,
+        34,
+        35,
+        37,
+        38,
+        41,
+        43,
+        44,
+        46,
+        47,
+        48,
+        49,
+        51,
+        55,
+        57,
+        60,
+        61,
+        65,
+        67,
+        128
+    ]
+}

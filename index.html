@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Guessing Game</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+</head>
+
+<body>
+
+    <!-- Navbar with buttons -->
+    <div id="navbar">
+        <button id="backToMenuBtn">Menu</button>
+        <button id="settingsBtn">Settings</button>
+        <button id="instructionsBtn">Instructions</button>
+        <button id="giveUpBtn" class="hidden">Give Up</button>
+    </div>
+
+    <!-- Main Menu -->
+    <div id="mainMenu">
+        <h1>Main Menu</h1>
+        <div>
+            <label for="languageSelect">Language:</label>
+            <select id="languageSelect">
+                <option value="English">English</option>
+                <option value="German">Deutsch</option>
+                <!-- Add more languages as needed -->
+            </select>
+        </div>
+        <div>
+            <label for="unitsSelect">Units:</label>
+            <select id="unitsSelect">
+                <option value="km">km</option>
+                <option value="mi">miles</option>
+            </select>
+        </div>
+        <br />
+        <div>
+            <button class="levelBtn" data-level="countries_sanitized.json">Countries</button>
+            <button class="levelBtn" data-level="states_sanitized.json">US states</button>
+            <button class="levelBtn" data-level="german_cities_sanitized.json">German Cities</button>
+            <!-- Add as many level buttons as you like -->
+        </div>
+    </div>
+
+    <!-- Game Screen -->
+    <div id="gameScreen" class="hidden">
+        <div id="search">
+            <div id="bar"><input type="text" id="guessInput">
+                <div id="predictions"></div>
+            </div>
+        </div>
+        <div id="clueArea"></div>
+    </div>
+
+    <!-- Instructions Modal -->
+    <div id="instructionsModal" class="modal hidden">
+        <div class="modal-header">
+            Instructions
+            <button class="close-btn" id="closeInstructionsBtn">&times;</button>
+        </div>
+        <div>
+            <p>
+                Welcome to the Guessing Game! Select a level from the main menu, then type your guess in the box.
+                Use the clues provided to narrow down your guesses. Good luck!
+            </p>
+        </div>
+    </div>
+
+    <!-- Settings Modal -->
+    <div id="settingsModal" class="modal hidden">
+        <div class="modal-header">
+            Settings
+            <button class="close-btn" id="closeSettingsBtn">&times;</button>
+        </div>
+        <div>
+            <label for="languageSelectModal">Language:</label>
+            <select id="languageSelectModal">
+                <option value="English">English</option>
+                <option value="German">Deutsch</option>
+                <!-- Add more languages as needed -->
+            </select>
+        </div>
+        <div>
+            <label for="unitsSelectModal">Units:</label>
+            <select id="unitsSelectModal">
+                <option value="km">km</option>
+                <option value="mi">miles</option>
+            </select>
+        </div>
+    </div>
+    <div id="gameModal" class="modal hidden">
+        <div class="modal-header">
+            <button class="close-btn" id="closeGameModalBtn">&times;</button>
+            <p id="gameModalHeader"></p>
+        </div>
+        <div>
+            <p id="gameModalConntent">
+                Welcome to the Guessing Game! Select a level from the main menu, then type your guess in the box.
+                Use the clues provided to narrow down your guesses. Good luck!
+            </p>
+        </div>
+    </div>
+    <!-- Modal Overlay (for dimming background when a modal is open) -->
+    <div id="modalOverlay" class="hidden"></div>
+    <!-- https://github.com/farzher/fuzzysort v2.0.4 -->
+    <script src="https://cdn.jsdelivr.net/npm/fuzzysort@2.0.4/fuzzysort.min.js"></script>
+    <script src="game.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
